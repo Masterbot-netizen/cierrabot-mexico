@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-green: #0a5c36;
+    --brand-green-dark: #074327;
+    --brand-green-light: #e8f5ee;
+    --brand-red: #c1272d;
+    --brand-red-light: #fdf1f1;
+    --chat-bubble-user: #f1f5f9;
+    --chat-bubble-bot: #dcf8c6;
+  }
+
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
