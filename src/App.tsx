@@ -18,8 +18,8 @@ VITE_SUPABASE_URL="https://tu-proyecto.supabase.co"
 VITE_SUPABASE_ANON_KEY="tu-anon-key-aqui"
 
 # Meta Cloud API / WhatsApp Business API
-VITE_META_PHONE_ID="108392019482910"
-VITE_META_TOKEN="EAAD...wXZB9K21"
+META_PHONE_ID="108392019482910"
+META_TOKEN="EAAD...wXZB9K21"
 WHATSAPP_VERIFY_TOKEN=cierrabot_verify_2026`}
           </pre>
         </div>
